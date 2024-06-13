@@ -1,4 +1,4 @@
-package com.spacestar.voice.global;
+package com.spacestar.back.global;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

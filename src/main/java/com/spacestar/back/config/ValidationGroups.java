@@ -1,4 +1,4 @@
-package com.spacestar.voice.config;
+package com.spacestar.back.config;
 
 public class ValidationGroups {
     public interface NotEmptyGroup {};
